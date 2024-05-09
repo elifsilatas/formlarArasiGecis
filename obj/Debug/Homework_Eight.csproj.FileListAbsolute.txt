@@ -1,0 +1,12 @@
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\bin\Debug\Homework_Eight.exe.config
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\bin\Debug\Homework_Eight.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\bin\Debug\Homework_Eight.pdb
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.csproj.AssemblyReference.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.Form1.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.Form2.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.Properties.Resources.resources
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.csproj.GenerateResource.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.csproj.CoreCompileInputs.cache
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.exe
+C:\Users\Elif Taş\source\repos\Murat Yücedağ Uygulama Geliştirerek C# Öğrenin (udemy)\Homework_Eight\obj\Debug\Homework_Eight.pdb
